@@ -10,3 +10,8 @@
 vendor
 .env
 ###< symfony/framework-bundle ###
+
+
+###> ide ###
+.vscode
+###< ide ###
